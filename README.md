@@ -1,4 +1,17 @@
 # This Is New Website.
-### Made By Arun Kumar Singh
+#### Made By Arun Kumar Singh
 
-**Created On** : *Sys.Date()*
+##### **Created On** : *13th* **October** 2019
+![github logo](http://pngimg.com/uploads/github/github_PNG20.png)
+## Arun Kumar Singh 
+
+* Date of Birth : 26th September
+* Education: M.tech CSE
+* Institute: IIT Jammu
+* Subjects:
+  * Algorithms
+  * Computer System
+  * Information Security
+* Batch : *2019-2021*
+
+ 
