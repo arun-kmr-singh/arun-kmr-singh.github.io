@@ -4,6 +4,7 @@
 ##### **Created On** : *13th* **October** 2019
 ![github logo](http://pngimg.com/uploads/github/github_PNG20.png)
 ## Arun Kumar Singh 
+https://github.com/arun-kmr-singh/ -automatic!
 
 * Date of Birth : 26th September
 * Education: M.tech CSE
