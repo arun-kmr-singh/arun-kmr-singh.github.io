@@ -13,7 +13,9 @@
 * Subjects:
   * Algorithms
   * Computer System
-  * Information Security
+  * Machine Learning
+  * Deep Learning
+  * Information and Data Security
 * Batch : *2019-2021*
 
  
