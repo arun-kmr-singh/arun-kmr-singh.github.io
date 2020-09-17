@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://arun-kmr-singh.github.io/)
+[![Cool Banner](https://github.com/arun-kmr-singh/arun-kmr-singh.github.io/blob/master/assets/Coolstuff/animation.gif)](https://arun-kmr-singh.github.io/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='center'>
